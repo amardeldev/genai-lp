@@ -1,12 +1,10 @@
-# GenAI Launchpad
-
-With AI innovation moving beyond the speed of light, your time to develop is now more precious than ever. That’s why we’ve built the GenAI Launchpad – your secret weapon to shipping production-ready AI apps, faster.
+With AI innovation moving beyond the speed of light, your time to develop is now more precious than ever. That’s why we’ve built the GenAI LP – your secret weapon to shipping production-ready AI apps, faster.
 
 ## 🚀 Introduction
 
-Welcome to the GenAI Launchpad – your all-in-one repository for building powerful, scalable Generative AI applications. Whether you’re prototyping or deploying at scale, this Docker-based setup has you covered with everything from event-driven architecture to seamless AI pipeline integration.
+Welcome to the GenAI LP – your all-in-one repository for building powerful, scalable Generative AI applications. Whether you’re prototyping or deploying at scale, this Docker-based setup has you covered with everything from event-driven architecture to seamless AI pipeline integration.
 
-No need to start from scratch or waste time on repetitive configurations. The GenAI Launchpad is engineered to get you up and running fast, with a flexible design that fits your workflow – all while keeping things production-ready from day one.
+No need to start from scratch or waste time on repetitive configurations. The GenAI LP is engineered to get you up and running fast, with a flexible design that fits your workflow – all while keeping things production-ready from day one.
 
 > **Note**: This repository has two main branches:
 > - [`main`](https://github.com/datalumina/genai-launchpad/tree/main): Contains a complete example implementation to demonstrate the Launchpad's capabilities
@@ -16,7 +14,7 @@ No need to start from scratch or waste time on repetitive configurations. The Ge
 
 ## 🎯 Overview
 
-The GenAI Launchpad isn’t just another framework – it’s your shortcut to a production-ready AI infrastructure. Built for speed and control, its modular architecture brings together the best tools and design patterns to help you deploy faster without compromising flexibility.
+This isn’t just another framework – it’s your shortcut to a production-ready AI infrastructure. Built for speed and control, its modular architecture brings together the best tools and design patterns to help you deploy faster without compromising flexibility.
 
 Here’s what you’re working with:
 
@@ -66,7 +64,7 @@ The Launchpad follows a logical, scalable, and reasonably standardized project s
 
 ## 🚦 Getting Started
 
-We provide two comprehensive guides for setting up the GenAI Launchpad:
+We provide two comprehensive guides for setting up the GenAI LP:
 
 - [Quick Start Guide](docs/01-getting-started/03-quick-start.md) - For those following the Accelerator video training or wanting to quickly test the platform
 - [Detailed Installation Guide](docs/01-getting-started/02-installation.md) - For production setups, including security considerations and troubleshooting
@@ -80,13 +78,13 @@ We provide two comprehensive guides for setting up the GenAI Launchpad:
 
 ## 🛠️ Development Workflow
 
-The GenAI Launchpad follows a structured development approach that emphasizes clean architecture and iterative development. Starting with the boilerplate branch, developers can quickly set up their environment, define events, create schemas, and build AI pipelines. The platform includes a playground for experimentation and comprehensive testing utilities to ensure robust implementation.
+The GenAI LP follows a structured development approach that emphasizes clean architecture and iterative development. Starting with the boilerplate branch, developers can quickly set up their environment, define events, create schemas, and build AI pipelines. The platform includes a playground for experimentation and comprehensive testing utilities to ensure robust implementation.
 
 For detailed instructions, see our [Development Workflow Guide](docs/04-guides/06-development-workflow.md).
 
 ## 🎥 Video Tutorials
 
-We offer two video Tutorials to help you master the GenAI Launchpad:
+We offer two video Tutorials to help you master the GenAI LP:
 
 ### Accelerator Course
 A step-by-step guide through the complete example implementation, perfect for getting started.
@@ -98,7 +96,7 @@ A step-by-step guide through the complete example implementation, perfect for ge
 ### Boilerplate Deep Dive
 An in-depth exploration of building projects from scratch using the boilerplate.
 
-- Link: [GenAI Launchpad - Boilerplate](https://datalumina.wistia.com/medias/pd280tdw7s)
+- Link: [GenAI LP - Boilerplate](https://datalumina.wistia.com/medias/pd280tdw7s)
 - Password: ybAziu4QbyfU44QTrMqU
 - Duration: 40 minutes
 
@@ -106,7 +104,7 @@ Both tutorials include instructions and real-world examples to ensure you can ef
 
 ## 💬 Support
 
-For support, questions, and collaboration related to the GenAI Launchpad:
+For support, questions, and collaboration related to the GenAI LP:
 
 1. **Discord Community**: Join our [Discord server](https://discord.gg/H67KUD6vXe) for quick questions, real-time support, and feature discussions. This is the fastest way to get help and connect with other users.
 
@@ -129,4 +127,4 @@ For the full license text, please refer to the [LICENSE](/LICENSE) file in the r
 
 ---
 
-For further assistance or to contribute to the GenAI Launchpad, please consult the project maintainers or refer to the contribution guidelines.
+For further assistance or to contribute to the GenAI LP, please consult the project maintainers or refer to the contribution guidelines.
